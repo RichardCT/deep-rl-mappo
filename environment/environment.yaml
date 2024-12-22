@@ -1,0 +1,23 @@
+channels:
+  - conda-forge
+  - nvidia
+  - pytorch
+dependencies:
+  - python=3.12.4
+  - pytorch=2.3.0
+  - pytorch-cuda=12.1
+  - cuda-compiler=12.1
+  - matplotlib=3.9.2
+  - pyyaml=6.0.2
+  - pip=24.2
+  - pip:
+    # required for main script
+    - func-to-script==0.1.0
+    - gymnasium==0.29.1
+    - moviepy==1.0.3
+    - mujoco==3.2.2
+    - pygame==2.6.0
+    - tensorboard==2.17.1
+    - torch-tb-profiler==0.4.3
+    - sentence_transformers==2.2.2
+

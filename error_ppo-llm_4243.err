@@ -1,0 +1,56 @@
+/home/msai/ricardod001/.conda/envs/dl_mappo/lib/python3.12/site-packages/gymnasium/wrappers/record_video.py:94: UserWarning: [33mWARN: Overwriting existing videos at /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/training folder (try specifying a different `video_folder` for the `RecordVideo` wrapper if this is not desired)[0m
+  logger.warn(
+/home/msai/ricardod001/.conda/envs/dl_mappo/lib/python3.12/site-packages/gymnasium/wrappers/record_video.py:94: UserWarning: [33mWARN: Overwriting existing videos at /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/validation folder (try specifying a different `video_folder` for the `RecordVideo` wrapper if this is not desired)[0m
+  logger.warn(
+/home/msai/ricardod001/.conda/envs/dl_mappo/lib/python3.12/site-packages/gymnasium/core.py:311: UserWarning: [33mWARN: env.img_size to get variables from other wrappers is deprecated and will be removed in v1.0, to get this variable you can do `env.unwrapped.img_size` for environment variables or `env.get_wrapper_attr('img_size')` that will search the reminding wrappers.[0m
+  logger.warn(
+/home/msai/ricardod001/.conda/envs/dl_mappo/lib/python3.12/site-packages/gymnasium/utils/passive_env_checker.py:127: UserWarning: [33mWARN: The obs returned by the `reset()` method should be an int or np.int64, actual type: <class 'list'>[0m
+  logger.warn(f"{pre} should be an int or np.int64, actual type: {type(obs)}")
+/home/msai/ricardod001/.conda/envs/dl_mappo/lib/python3.12/site-packages/gymnasium/utils/passive_env_checker.py:159: UserWarning: [33mWARN: The obs returned by the `reset()` method is not within the observation space.[0m
+  logger.warn(f"{pre} is not within the observation space.")
+/home/msai/ricardod001/.conda/envs/dl_mappo/lib/python3.12/site-packages/gymnasium/core.py:311: UserWarning: [33mWARN: env.get_platform_position to get variables from other wrappers is deprecated and will be removed in v1.0, to get this variable you can do `env.unwrapped.get_platform_position` for environment variables or `env.get_wrapper_attr('get_platform_position')` that will search the reminding wrappers.[0m
+  logger.warn(
+/home/msai/ricardod001/.conda/envs/dl_mappo/lib/python3.12/site-packages/gymnasium/utils/passive_env_checker.py:228: UserWarning: [33mWARN: Expects `terminated` signal to be a boolean, actual type: <class 'list'>[0m
+  logger.warn(
+/home/msai/ricardod001/.conda/envs/dl_mappo/lib/python3.12/site-packages/gymnasium/utils/passive_env_checker.py:127: UserWarning: [33mWARN: The obs returned by the `step()` method should be an int or np.int64, actual type: <class 'list'>[0m
+  logger.warn(f"{pre} should be an int or np.int64, actual type: {type(obs)}")
+/home/msai/ricardod001/.conda/envs/dl_mappo/lib/python3.12/site-packages/gymnasium/utils/passive_env_checker.py:159: UserWarning: [33mWARN: The obs returned by the `step()` method is not within the observation space.[0m
+  logger.warn(f"{pre} is not within the observation space.")
+/home/msai/ricardod001/.conda/envs/dl_mappo/lib/python3.12/site-packages/gymnasium/utils/passive_env_checker.py:246: UserWarning: [33mWARN: The reward returned by `step()` must be a float, int, np.integer or np.floating, actual type: <class 'list'>[0m
+  logger.warn(
+t:   0%|          | 0/2 [00:00<?, ?it/s, now=None]                                                  /home/msai/ricardod001/.conda/envs/dl_mappo/lib/python3.12/site-packages/gymnasium/utils/passive_env_checker.py:228: UserWarning: [33mWARN: Expects `terminated` signal to be a boolean, actual type: <class 'list'>[0m
+  logger.warn(
+/home/msai/ricardod001/.conda/envs/dl_mappo/lib/python3.12/site-packages/gymnasium/utils/passive_env_checker.py:127: UserWarning: [33mWARN: The obs returned by the `step()` method should be an int or np.int64, actual type: <class 'list'>[0m
+  logger.warn(f"{pre} should be an int or np.int64, actual type: {type(obs)}")
+/home/msai/ricardod001/.conda/envs/dl_mappo/lib/python3.12/site-packages/gymnasium/utils/passive_env_checker.py:159: UserWarning: [33mWARN: The obs returned by the `step()` method is not within the observation space.[0m
+  logger.warn(f"{pre} is not within the observation space.")
+/home/msai/ricardod001/.conda/envs/dl_mappo/lib/python3.12/site-packages/gymnasium/utils/passive_env_checker.py:246: UserWarning: [33mWARN: The reward returned by `step()` must be a float, int, np.integer or np.floating, actual type: <class 'list'>[0m
+  logger.warn(
+/home/msai/ricardod001/.conda/envs/dl_mappo/lib/python3.12/site-packages/gymnasium/core.py:311: UserWarning: [33mWARN: env.get_agent_position to get variables from other wrappers is deprecated and will be removed in v1.0, to get this variable you can do `env.unwrapped.get_agent_position` for environment variables or `env.get_wrapper_attr('get_agent_position')` that will search the reminding wrappers.[0m
+  logger.warn(
+t:   0%|          | 0/2 [00:00<?, ?it/s, now=None]                                                  t:   0%|          | 0/2 [00:00<?, ?it/s, now=None]                                                  t:   0%|          | 0/2 [00:00<?, ?it/s, now=None]                                                  t:   0%|          | 0/2 [00:00<?, ?it/s, now=None]                                                  t:   0%|          | 0/2 [00:00<?, ?it/s, now=None]                                                  Traceback (most recent call last):
+  File "/home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/main.py", line 135, in <module>
+    main()
+  File "/home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/main.py", line 113, in main
+    trained_agent = mappo.learn()
+                    ^^^^^^^^^^^^^
+  File "/home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/mappo.py", line 97, in learn
+    t_update_results = self.collect_rollouts_and_update_policy(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/mappo.py", line 126, in collect_rollouts_and_update_policy
+    update_results = self.update_policy(flattened_data_per_agent)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/mappo.py", line 422, in update_policy
+    total_loss.backward()
+  File "/home/msai/ricardod001/.conda/envs/dl_mappo/lib/python3.12/site-packages/torch/_tensor.py", line 581, in backward
+    torch.autograd.backward(
+  File "/home/msai/ricardod001/.conda/envs/dl_mappo/lib/python3.12/site-packages/torch/autograd/__init__.py", line 347, in backward
+    _engine_run_backward(
+  File "/home/msai/ricardod001/.conda/envs/dl_mappo/lib/python3.12/site-packages/torch/autograd/graph.py", line 825, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Trying to backward through the graph a second time (or directly access saved tensors after they have already been freed). Saved intermediate values of the graph are freed when you call .backward() or autograd.grad(). Specify retain_graph=True if you need to backward through the graph a second time or if you need to access saved tensors after calling backward.
+/home/msai/ricardod001/.conda/envs/dl_mappo/lib/python3.12/site-packages/proglog/proglog.py:316: TqdmMonitorWarning: tqdm:disabling monitor support (monitor_interval = 0) due to:
+can't create new thread at interpreter shutdown
+  self.tqdm_bars[bar] = self.tqdm(
+t:   0%|          | 0/1 [00:00<?, ?it/s, now=None]                                                  

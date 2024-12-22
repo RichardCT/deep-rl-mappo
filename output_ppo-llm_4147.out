@@ -1,0 +1,36 @@
+cuda
+Loaded 12 cached states into memory!
+Loaded 12 cached states into memory!
+Loaded 12 cached states into memory!
+Loaded 12 cached states into memory!
+Loaded 0 cached states into memory!
+Loaded 0 cached states into memory!
+Loaded 0 cached states into memory!
+Loaded 0 cached states into memory!
+SFFFFFFSHFFHHHFFFHHHFFFFHFFFFHHFHFFFHFHFHHHFFFFFHFFFFFFFPFFHFFFG_7_0,0_1
+Environment reset called. State shape: (196992,), dtype: float32
+Env 0 reset: state shape = (196992,), dtype = float32
+Moviepy - Building video /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732358747/training/rl-video-episode-0.mp4.
+Moviepy - Writing video /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732358747/training/rl-video-episode-0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732358747/training/rl-video-episode-0.mp4
+SFHFFFPSFFFFHHFFFFFFFHHFFFFHHHFHHFFFFFHFFFFFFFFFFFFHFFHFFFFFFFFG_7_0,0_1
+Environment reset called. State shape: (196992,), dtype: float32
+Env 1 reset: state shape = (196992,), dtype = float32
+SFFFFHHSFFFFFFHFHHFHHHFFHPHFFHFFFFFFHFHFFFHHFHFFFFFFFFHFFHFFFHFG_7_0,0_1
+Environment reset called. State shape: (196992,), dtype: float32
+Env 2 reset: state shape = (196992,), dtype = float32
+SFHFFFFSFHFFPHFFFFHFFFHFFHHHFFHFHHFFFFFHFFFFHHFFFFHFFHFHFHFFHFFG_7_0,0_1
+Environment reset called. State shape: (196992,), dtype: float32
+Env 3 reset: state shape = (196992,), dtype = float32
+Observation from env 0: type = <class 'numpy.ndarray'>, shape = (196992,), dtype = float32
+state.ndim = 1
+Observation from env 1: type = <class 'numpy.ndarray'>, shape = (196992,), dtype = float32
+state.ndim = 1
+Observation from env 2: type = <class 'numpy.ndarray'>, shape = (196992,), dtype = float32
+state.ndim = 1
+Observation from env 3: type = <class 'numpy.ndarray'>, shape = (196992,), dtype = float32
+state.ndim = 1
+Stacked observations shape: (4, 196992), dtype: float32
+stacked_infos shape: (4,), dtype: object

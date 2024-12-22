@@ -1,0 +1,1210 @@
+cuda
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+Loaded 1022 cached states into memory!
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+Loaded 1022 cached states into memory!
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+Loaded 1022 cached states into memory!
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+Loaded 1022 cached states into memory!
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+Loaded 6 cached states into memory!
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+Loaded 6 cached states into memory!
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+Loaded 6 cached states into memory!
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+Loaded 6 cached states into memory!
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+Moviepy - Building video /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/training/rl-video-episode-0.mp4.
+Moviepy - Writing video /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/training/rl-video-episode-0.mp4
+
+Moviepy - Done !
+Moviepy - video ready /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/training/rl-video-episode-0.mp4
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=4
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+Moviepy - Building video /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/training/rl-video-episode-1.mp4.
+Moviepy - Writing video /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/training/rl-video-episode-1.mp4
+
+Moviepy - Done !
+Moviepy - video ready /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/training/rl-video-episode-1.mp4
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=8
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=12
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=16
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=20
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=24
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=28
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=32
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+Moviepy - Building video /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/training/rl-video-episode-8.mp4.
+Moviepy - Writing video /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/training/rl-video-episode-8.mp4
+
+Moviepy - Done !
+Moviepy - video ready /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/training/rl-video-episode-8.mp4
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=36
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=40
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=44
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=48
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=52
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=56
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=60
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=64
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=68
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=72
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=76
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=80
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=84
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=88
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=92
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=96
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=100
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=104
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=108
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+Moviepy - Building video /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/training/rl-video-episode-27.mp4.
+Moviepy - Writing video /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/training/rl-video-episode-27.mp4
+
+Moviepy - Done !
+Moviepy - video ready /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/training/rl-video-episode-27.mp4
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=112
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=116
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=120
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=124
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=128
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=132
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=136
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=140
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=144
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=148
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=152
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=156
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=160
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=164
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=168
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=172
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=176
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=180
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=184
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=188
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=192
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=196
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=200
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=204
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=208
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=212
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=216
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=220
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=224
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=228
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=232
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=236
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=240
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=244
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=248
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=252
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=256
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+Moviepy - Building video /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/training/rl-video-episode-64.mp4.
+Moviepy - Writing video /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/training/rl-video-episode-64.mp4
+
+Moviepy - Done !
+Moviepy - video ready /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/training/rl-video-episode-64.mp4
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=260
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=264
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=268
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=272
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=276
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=280
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=284
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=288
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=292
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=296
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=300
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=304
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=308
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=312
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=316
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=320
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=324
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=328
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=332
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=336
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=340
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=344
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=348
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=352
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=356
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=360
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=364
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=368
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=372
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=376
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=380
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=384
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=388
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=392
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=396
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=400
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=404
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=408
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=412
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=416
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=420
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=424
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=428
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=432
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=436
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=440
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=444
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=448
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=452
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=456
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=460
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=464
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=468
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=472
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=476
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=480
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=484
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=488
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=492
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=496
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=500
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+Moviepy - Building video /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/training/rl-video-episode-125.mp4.
+Moviepy - Writing video /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/training/rl-video-episode-125.mp4
+
+Moviepy - Done !
+Moviepy - video ready /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/training/rl-video-episode-125.mp4
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=504
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=508
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+self.num_agents:  2
+self.episode_returns:  [0.0, 0.0]
+global_step=512
+Moviepy - Building video /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/validation/rl-video-episode-0.mp4.
+Moviepy - Writing video /home/msai/ricardod001/repos/dl_project/ai6103-ppo-llm/videos/FrozenLake-v1__v3__1__1732471315/validation/rl-video-episode-0.mp4
+

@@ -1,0 +1,47 @@
+env:
+  id: FrozenLake-v1
+  type: 5 # 1 = continuous, 2 = discrete, 3 = llm, 4 = img, 5 = llmv2
+  size: 8
+  is_random: true #whethere map changes at each reset. 
+  is_ma: true #set true for multi-agent env
+  num_agents: 2
+  seed: 2
+  is_slippery: true #whether the agent can slip on the ice
+
+training:
+  num_envs: 4
+  total_timesteps: 1000000
+  num_rollout_steps: 128
+  update_epochs: 4
+  num_minibatches: 4
+
+validation:
+  is_active: true
+  num_envs: 4
+
+testing:
+  num_envs: 2
+  num_episodes: 1000
+
+optimization:
+  learning_rate: 2.5e-4
+  gamma: 0.99
+  gae_lambda: 0.95
+  surrogate_clip_threshold: 0.2
+  entropy_loss_coefficient: 0.01
+  value_function_loss_coefficient: 0.5
+  normalize_advantages: true
+  clip_value_function_loss: true
+  max_grad_norm: 0.5
+  target_kl: null
+  anneal_lr: true
+  rpo_alpha: null
+
+simulation:
+  seed: 1
+  torch_deterministic: true
+  capture_video: true
+  use_tensorboard: true
+  save_model: true
+  name: v3
+  use_pre_computed_states: true

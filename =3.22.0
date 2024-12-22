@@ -1,0 +1,39 @@
+Channels:
+ - conda-forge
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/msai/ricardod001/.conda/envs/mappo
+
+  added / updated specs:
+    - sqlite
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    sqlite-3.47.0              |       h9eae976_1         863 KB  conda-forge
+    ------------------------------------------------------------
+                                           Total:         863 KB
+
+The following packages will be UPDATED:
+
+  ncurses                 pkgs/main::ncurses-6.4-h6a678d5_0 --> conda-forge::ncurses-6.5-he02047a_1 
+  sqlite                                  3.32.3-hcee41ef_1 --> 3.47.0-h9eae976_1 
+
+The following packages will be SUPERSEDED by a higher-priority channel:
+
+  certifi            pkgs/main/linux-64::certifi-2024.8.30~ --> conda-forge/noarch::certifi-2024.8.30-pyhd8ed1ab_0 
+
+
+Proceed ([y]/n)? 
+
+Downloading and Extracting Packages: ...working... done
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
